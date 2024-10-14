@@ -1,3 +1,4 @@
+## Compare list - Separate V1, V2...V301 from the list then compare if two consecutive occurance are same or not
 list = ["V1_abcd","V2_cejn","V300_dnmewx","V300_cenjc","V301_ceiknce"]
 j=0
 list2=[]
